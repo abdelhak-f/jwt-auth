@@ -1,4 +1,4 @@
 config
 node_modules
 config/.env
-config/keys.js
+config/keys
