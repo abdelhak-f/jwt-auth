@@ -1,0 +1,1 @@
+app.use(console.log(page admin));
